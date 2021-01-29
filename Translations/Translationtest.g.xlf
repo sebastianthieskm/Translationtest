@@ -18,10 +18,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Translate me - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3692854034 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate me - Field Amount - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 994891647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Translate Mes</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Translate Mes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1749922454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translate Me Card - Property Caption</note>
         </trans-unit>
       </group>
     </body>

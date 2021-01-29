@@ -15,6 +15,12 @@ table 50100 "Translate me"
             Caption = 'Description';
             DataClassification = ToBeClassified;
         }
+
+        field(3; Amount; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Amount';
+        }
     }
     keys
     {

@@ -23,6 +23,10 @@ page 50101 "Translate Me Card"
                 {
                     ApplicationArea = All;
                 }
+                field("Translate Me Category Code"; Rec."Translate Me Category Code")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

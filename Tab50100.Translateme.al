@@ -31,6 +31,12 @@ table 50100 "Translate me"
             Caption = 'Customer No.';
             TableRelation = Customer;
         }
+        field(6; "Translate Me Category Code"; Code[10])
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Translate Me Category Code';
+            TableRelation = "Translate Me Category";
+        }
     }
     keys
     {

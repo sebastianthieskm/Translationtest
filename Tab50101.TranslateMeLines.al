@@ -1,8 +1,8 @@
-table 50101 "Translate Me Lines"
+table 50101 "Translate Me Line"
 {
-    Caption = 'Translate Me Lines';
+    Caption = 'Translate Me Line';
     DataClassification = ToBeClassified;
-    
+
     fields
     {
         field(1; "Translate Me Code"; Code[10])
@@ -23,10 +23,10 @@ table 50101 "Translate Me Lines"
     }
     keys
     {
-        key(PK; "Translate Me Code","Line No.")
+        key(PK; "Translate Me Code", "Line No.")
         {
             Clustered = true;
         }
     }
-    
+
 }

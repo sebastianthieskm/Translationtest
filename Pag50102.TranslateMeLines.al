@@ -3,7 +3,7 @@ page 50102 "Translate Me Lines"
 
     Caption = 'Translate Me Lines';
     PageType = ListPart;
-    SourceTable = "Translate Me Lines";
+    SourceTable = "Translate Me Line";
     AutoSplitKey = true;
 
     layout

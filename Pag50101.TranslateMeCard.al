@@ -24,7 +24,13 @@ page 50101 "Translate Me Card"
                     ApplicationArea = All;
                 }
             }
+            part(Lines; "Translate me Lines")
+            {
+                SubPageLink = "Translate Me Code" = field(Code);
+            }
         }
+
     }
+
 
 }

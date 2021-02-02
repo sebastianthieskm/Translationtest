@@ -6,6 +6,8 @@ page 50100 "Translate Mes"
     PageType = List;
     SourceTable = "Translate me";
     UsageCategory = Lists;
+    CardPageId = "Translate Me Card";
+    Editable = false;
 
     layout
     {

@@ -33,6 +33,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Translate me - Field Customer No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 904564212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 1594672677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Translate Me Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Description - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 994891647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Translate Mes</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -42,6 +62,11 @@
           <source>Translate Me Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Translate Me Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3820087285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translate Me Lines - Property Caption</note>
         </trans-unit>
       </group>
     </body>

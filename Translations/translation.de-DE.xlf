@@ -30,16 +30,42 @@
         <trans-unit id="Table 3692854034 - Field 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Desscription 2</source>
           <target>Beschreibung 2</target>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Translate me - Field Description 2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3692854034 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer No.</source>
           <target>Debitor Nr.</target>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Translate me - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Line</source>
+          <target>Übersetz mich Zeile</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 1594672677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Code</source>
+          <target>Übersetz mich Code</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Translate Me Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Zeilennummer</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 904564212 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translate Me Line - Field Description - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 994891647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Translate Mes</source>
@@ -52,6 +78,12 @@
           <target>Übersetz mich Karte</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Translate Me Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3820087285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate Me Lines</source>
+          <target>Übersetz mich Zeilen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translate Me Lines - Property Caption</note>
         </trans-unit>
       </group>
     </body>

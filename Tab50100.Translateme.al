@@ -15,11 +15,21 @@ table 50100 "Translate me"
             Caption = 'Description';
             DataClassification = ToBeClassified;
         }
-
         field(3; Amount; Decimal)
         {
             DataClassification = ToBeClassified;
             Caption = 'Amount';
+        }
+        field(4; "Description 2"; Text[100])
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Desscription 2';
+        }
+        field(5; "Customer No."; Code[20])
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Customer No.';
+            TableRelation = Customer;
         }
     }
     keys
